@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "287210665652",
+    "project_id": "fraccionamiento-app",
+    "storage_bucket": "fraccionamiento-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287210665652:android:5a09e91a48754b96aec9e1",
+        "android_client_info": {
+          "package_name": "com.example.fraccionamiento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287210665652-bj7s1ejl4vu42d578l8j4g7ju4jnu05e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fraccionamiento",
+            "certificate_hash": "e8d463a74f25aee2348ea924a3a0dd2725f6bae3"
+          }
+        },
+        {
+          "client_id": "287210665652-ersuhn4edvjna2e3rgsdgi8boh0sdrck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fraccionamiento",
+            "certificate_hash": "a893ee04291d98e766116ef31a2206c846a0716c"
+          }
+        },
+        {
+          "client_id": "287210665652-bjl0o5miepqodve23ngl6tm90pq3m59k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBULU_12NnLFwrhhvxPUMwCdiUFvhepfK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287210665652-bjl0o5miepqodve23ngl6tm90pq3m59k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
